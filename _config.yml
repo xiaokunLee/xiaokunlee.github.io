@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "xiaoMonkey"
-title2: "xiaokun" # default: ""
+title: "serverLee"
+#title2: "xiaokun" # default: ""
 description: "May the force be with you."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, xiaokun"
 url: http://xiaomonkey.com # site url
@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "xiaokunLee"
-  job      : "R&D Software Engineer"
+  job      : "R&D"
   bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
   thumb    : /images/author.jpg
   email    : ifbs@sina.com 
