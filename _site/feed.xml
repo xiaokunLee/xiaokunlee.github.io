@@ -5,9 +5,177 @@
     <description>May the force be with you.</description>
     <link>http://xiaomonkey.com/</link>
     <atom:link href="http://xiaomonkey.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jan 2017 11:05:32 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Jan 2017 11:05:32 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2017 16:42:55 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2017 16:42:55 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>春有百花秋望月,夏有凉风冬听雪,回首2016</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;远方&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;春有百花秋望月,夏有凉风冬听雪,回首2016&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;引用
+历史不是镜子，历史是精子
+牺牲亿万，才有一个活到今天
+人生不是故事，人生是事故
+摸爬滚打，才不辜负功名尘土
+世界不是苟且，世界是远方
+行万里路，才能回到内心深处
+未来不是岁数，未来是礼物
+读万卷书，才看得清浩月繁星&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;回首&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;3.18 教育&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;那一天，突然间听到了，教育信贷3.18号角声，而后各方迅速到位。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; 那些夜晚，封闭开发，灯火通明，经纬妹子成了汉子。
+
+ 那一个夜晚，勇刚住宾馆，基情四射。
+
+ 那几天，嫂子竟然和非常nice的顺哥生气了。
+
+ 有一天，我被斌哥收留了。
+
+ 那几天，明明、俊毅修复着各种兼容性的问题。
+
+ 最后一夜，猛仔伤了，过于疲惫。     
+
+ 焕运面色憔悴，梳理着各种线上、线下的问题，到处协调资源。
+
+ 夜已深，微醉、清醒。
+
+ 记忆凌乱，碎片，回忆短暂，上线回顾，坦然一笑而过，再战！
+
+ 而我成了网红
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;4.28 信用支付&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;教育上线，没有喘息进入信用支付、秒借&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;核心Mis&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;辽沈战役，金融核心Mis，从详设到开发，突然从PHP转成JAVA。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;什么Spring、Mybatis、什么Aop Ioc、什么面向切面开发.....
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;8.02 医美+曼哈顿一期&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;洪顺说，回来吧，大家一起干…我们去做组件化、平台化&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;了解医美：
+
+PM:医美和教育一样...
+ 
+医美：首次对接新风控、首次接入BFE
+
+沉不住气，喷了N多人
+
+需求:毫无头绪，本着对于业务的熟悉，梳理着医美的流程，和大家梳理着曼哈顿的服务化，梳理着雏形。
+
+医美上线，我也幸福的有了baby
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;9.02 租房贷二期+曼哈顿二期&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;曼哈顿二期:组件化、服务化&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;租房二期是曼哈顿第一个落地的场景。
+状态机的应用是顶着压力上的，其中的不足之处也比较明显。配置成本高，场景流程差异化强。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;12.06 房抵贷&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;第三方数据的收集替换了用户端风控因子采集，&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;从而衍生事件驱动模型
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1.11 联盟贷&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;B端贷款业务.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;安全设计、线上安全
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;may-the-force-be-with-you&quot;&gt;May the Force be with you&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;2016年过去了，我很怀念它。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;2017继续[勿忘初心 砥砺前行]&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Thu, 12 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://xiaomonkey.com/2017/first/</link>
+        <guid isPermaLink="true">http://xiaomonkey.com/2017/first/</guid>
+        
+        
+      </item>
     
       <item>
         <title>May the Force be with you.</title>
